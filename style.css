@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 200px;
+    width:100 vh;
+    background: linear-gradient(#45c3f4, #f03b9e);
+}
+h1{
+    color: #faebd7;
+    position: relative;
+    top: 70px;
+    left: 40%;
+    font-weight: bolder ;
+    font-size: 50px;
+    letter-spacing: 5px;
+    
+}
+
+div{
+    background-color: rgb(14, 87, 244);
+    height: 5px;
+    width:170px ;
+}
+h2{
+    font-size: xx-large;
+}
+li{
+    font-size: 18px;
+    font-weight: 400;
+}
