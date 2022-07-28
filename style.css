@@ -34,7 +34,8 @@ box-shadow: 0 35px 55px rgba(0,0,0,0.1);
  .continer .right-side{
     position: relative;
     background: #fff;
-    padding: 40px;
+    padding:40px;
+    
     
     
 }
@@ -57,7 +58,7 @@ box-shadow: 0 35px 55px rgba(0,0,0,0.1);
 } 
 
 .name{
-    font-size:40px;
+    font-size:35px;
     color:#fff;
     margin-top: 20px;
     letter-spacing: 1px;
@@ -69,20 +70,67 @@ box-shadow: 0 35px 55px rgba(0,0,0,0.1);
     
 }
 .under-name{
-    font-size:20px; 
+    font-size:15px; 
     color:#fff;
-    padding: 40px;
+    padding-left:  55px;
     font-weight: bolder;
-    /* border-bottom: 1px solid  rgba(255,255,255,0.4); */
+    letter-spacing: 2px;
     
 }
 .under-line{
-    background-color:rgba(255,255,255,0.4);
+    background-color:rgba(255,255,255,0.3);
     width: 250px;
     height: 1px;
     margin-top: 10px;
 }
 .info{
-    padding: 40px;
+    padding-left:  40px;
+    margin-top: 40px;
+    
+}
+
+.titel{
+    font-weight: 600;
     color: #fff;
+    letter-spacing: 1px;
+    margin: 5px -55px;
+
+}
+
+li{
+    padding-top: 10px;
+    margin-left: -30px;
+    list-style: none;
+    color:aliceblue;
+    font-weight: 300;
+    
+
+}
+.text{
+    margin-left: 33px;
+}
+.info .icon{
+    display: inline-block;
+    width:30px ;
+    font-size: 18px;
+    color: #03a9f4;
+}
+
+.info-ausbildung li{
+    margin: -30px 15px;
+    padding-bottom: 35px;
+    
+}
+
+.titel2{
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 1px;
+    margin: 40px -15px;
+
+}
+
+.info-ausbildung h5{
+    font-weight: 500;
+    color: #03a9f4;
 }
